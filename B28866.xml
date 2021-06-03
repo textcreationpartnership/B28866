@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the late dreadful tempest, or hurricane that happened in Holland and Utrech, on Wednesday the 22d. of July, 1674. between seven and eight of the clock at night, taken out of several letters to merchants in London. Published to prevent false reports.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28866</idno><idno type="EEBO-CITATION">99886637</idno>
+  <idno type="VID">187581</idno>
+  <idno type="EEBO-PROQUEST">2240893891</idno>
+  
+            <idno type="STC">Wing R847</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[19]</idno>
+            <idno type="STC">ESTC R226305</idno>
+            <idno type="PROQUEST">ocm99886637</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886637e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187581)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the late dreadful tempest, or hurricane that happened in Holland and Utrech, on Wednesday the 22d. of July, 1674. between seven and eight of the clock at night, taken out of several letters to merchants in London. Published to prevent false reports.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Dorman Newman, at the sign of the Kings-Armes in the Poultrey,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Storms --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187581:1"/>
+            <pb facs="tcp:187581:1"/>
+            <p>A RELATION OF THE LATE Dreadful Tempest, OR HURRICANE That happened in <hi>HOLLAND</hi> and <hi>ƲTRECH,</hi> ON <hi>Wednesday</hi> the 22d. of <hi>July,</hi> 1674. between Seven and Eight of the Clock at Night, taken out of several Letters to Merchants in <hi>London.</hi>
+            </p>
+            <p>Published to prevent false Reports.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dorman Newman,</hi> at the Sign of the <hi>Kings-Armes</hi> in the <hi>Poultrey,</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:187581:2"/>
+            <pb n="1" facs="tcp:187581:2"/>
+            <head>A RELATION OF THE LATE Dreadful Tempest, OR, HURRICANE, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Ʋtrech</hi>
+                  <date> the 2d. of <hi>August,</hi> 1674.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y heart doth tremble, and my hand doth shake, now I am taking my Pen to inform you of a dreadfull passage of Providence that hath befallen this poor Province of <hi>Utrech;</hi> and not only us, but also that famous and rich City of <hi>Amsterdam</hi> and <hi>Dort,</hi> with several of the places Adjacent: For upon yesterday, being the first day of <hi>August,</hi> and with your stile, the 22d. of <hi>July,</hi> upon the day whereon our Fast was kept as a day of Humiliation (which our Magistrates had caused to be set apart for the obtain<g ref="char:EOLhyphen"/>ing in the first place, Reconciliation with Almighty God; and in the next, a Blessing upon our Armies; Now ready to Engage with our Friends against our Enemies the <hi>French</hi>) between 7 and 8 of the Clock at Night, a sudden and most terrible Tempest began with great Thundring and Lightning; up<g ref="char:EOLhyphen"/>on which followed such a dreadful showre of Haile stones of exceeding big<g ref="char:EOLhyphen"/>ness, that the People in the Streets were almost knockt down to the ground, before they could get shelter; the Hayle that fell, being as big as a Musquet-Bullet, the ratling appearing like great stones falling out of the Clouds; upon which followed a most violent Wind, of the manner of a Hurry-cain, which on a sudden threw down our great Church, which was built in the manner of your Cathedials; rasing the greatest part of it to the ground, for
+<pb n="2" facs="tcp:187581:3"/>much of the Building is thrown on the Earth, and two Churches more much spoyled, only the two Pillers where the Pulpet stood are left standing, as a Monument of Gods Judgment upon this present Generation: The Houses are fallen into the Streets, so that the Inhabitants cannot pass to each other for the abundance of Tember and Rubbish that stops up the way; and in many places we are filled with Desolation, so that this sad place, that hath been so long the seat of War under a Conquering Enemy, and was just lifting up its head above all the sad things that had but lately befallen it, is now become a Terror, not only to it self, but to all that are round about it, to the grief and a<g ref="char:EOLhyphen"/>stonishment of all our Neighbours and Friends; nor was this direfull passage among us only, that were at home, but all along the River where there was not a Skuyt or Boat but received the effects of this Storm; at <hi>Dort</hi> also the Waggons that were Travelling by Land were hurried upon the ground, as if they had been but some light Goods, notwithstanding the Horses that drew them.</p>
+            <p>I cannot in so short a time, give you a particular Account of the many Per<g ref="char:EOLhyphen"/>sons who have lost their Lives, Limbs, or otherwise sustained Dammages by this sad Accident both here and in several Parts of <hi>Holland,</hi> especially <hi>Amster<g ref="char:EOLhyphen"/>dam</hi> (of which I doubt not but you will have an Account from themselves.) This Tempest began from the <hi>South East</hi> of that City, and went all along to the <hi>North-West,</hi> not only Untiling several Houses, but also taking away seve<g ref="char:EOLhyphen"/>ral whole Roofs of some of them; by which means most of the Goods that were in the Crany Ware-houses, were spoyled with the abundance of Wet that fell in upon the upper parts of them. Among the rest, Mr. <hi>T. D.</hi> hath 2000 <hi>l. Sterl.</hi> of Wares that will not yeild him any thing considerable; 70 Sayl of Ships in the <hi>Texel,</hi> not one of them Escaped without some dammage; those of them that could cut their Cables soonest, and get out from the rest, escaped best, but some of them were over set, and others striking one against another, were instrumental to one anothers destruction: We are told here that the great Tree at <hi>Amsterdam,</hi> so considerable for its heighth and bigness, was pluckt up by the roots, and thrown several yards from the place where it stood. I am informed Mr. <hi>I. P.</hi> was going with his Friend from <hi>Dort</hi> in the Skuyte, and the Skuyte was over - turned, that he himself is saved, but his Friend perished in the waters: How many more of these sad things we shall further hear of, the Lord knows; I am afraid they will not be a few.</p>
+         </div>
+         <div type="account">
+            <pb n="3" facs="tcp:187581:3"/>
+            <head>FROM UTRECH. The 2d. of <hi>August,</hi> 1674.</head>
+            <p>I Cannot but informe you of the Great and Miraculous judgment of Almighty God, whose hand hath been very heavy on the Nether<g ref="char:EOLhyphen"/>lands, and Especially this famous City of <hi>Ʋtrecht,</hi> that is now almost destroyed, the wounds are fresh bleeding which we had receiv'd from the <hi>French,</hi> and by which we are much Impoverished, and now when we hoped that the worst had been past, and that we should have had a re<g ref="char:EOLhyphen"/>cruiting time; God Almighty hath powred one Violl more of his wrath and Indignation upon us: for, on <hi>Wednesday</hi> last between Seven and Eight of the Clock at Night, fell such a heavy storm of Wind mixed with Lightning, Hayle, Thunder, and Rain, which seemed as though it would have turned all things upside-down, the earth Moving as with a great Earth-quake, which produced the dreadfull effects which follow.</p>
+            <p>The houses and Tyles that fell caused such heaps of Rubbish, that the Streets are not Passable, The Old comly structure, the Principle Church, which had stood out so many Ages, is now more then half fallen Down; the costly Pillars that were by the Ministers Pew with the 7 Crown Can<g ref="char:EOLhyphen"/>dlestrick spoyled, although indeed the 2 Pillars with the state-pew are still standing, But wholly made useless, the Steeple remaineth stand<g ref="char:EOLhyphen"/>ing. The Spire of St. <hi>James</hi> Church is broken down, to the out works the Costly and famous Clockwork is fallen into the Church, and the Glass Windows all broken: and that which is much to be wondered at, there is not one house near that Church which is Damnified with the fall of the Steeple, although it fell cross between the houses and the Church, the Buer Church hath both its sides beaten into one, and half the roof of it fallen Down, of St. <hi>Nic.</hi> Church the Spires are beaten Down, the Tower that stood by Agnes Cloyster is beaten down, the <hi>Magdelen</hi> Church and the <hi>Dutch</hi> house is beaten Down, As also the Towers of St. <hi>Peters</hi> Church are both fallen down, and the Chruch by
+<pb n="4" facs="tcp:187581:4"/>the fall of the Towers Demolished; the house of my Lord <hi>De Hare</hi> up<g ref="char:EOLhyphen"/>on the old Graft at the corner of <hi>Draken-burgh</hi>-Ally hath half its roof fallen into it, by which a Woman Living on the key was kild in the Cellar.</p>
+            <p>A Skuyte lying full of Turf in the Graft was beaten all to peices, and the Turf remains Swimming up and down the Graft, another out at the <hi>Tolle<g ref="char:EOLhyphen"/>steek-Port</hi> was also served in the like manner: the K. Church had the Walls beaten down, and of the nine Corn mills that stood on the walls, there are but three left standing.</p>
+            <p>The Mill on the Gans-sleugh is blown up from the Ground; Also two Saw-Mills that stood without the <hi>Tolle-steek-port.</hi> Divers other Mills and places Destroyed, and Persons blown up into the Aire; and the Waggons Com<g ref="char:EOLhyphen"/>ing and going from hence with their Passengers, Driven into the Rhyne were Choakt in the River, and an hospitall called Martyns Hospital is to<g ref="char:EOLhyphen"/>tally destroyed, and but one man kild in it, most of the Steeples of Villa<g ref="char:EOLhyphen"/>ges Adjacent are broken down, and the Trees blown up by the roots, the Mills on the other side of the River, have their Sails and frames taken off together, and one Woman is found dead under one of those Mills, with a hammer in her hand. The great Martyn Tavern is also fallen down, but we do not hear of any more then one Person kild in it, many such fad effects it hath produced, of which you will hear more by the next. The Lord help us to see now his hand is lifted so soar upon us, and inable us to learn righteousness by his many Judgments we have been un<g ref="char:EOLhyphen"/>der.</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
